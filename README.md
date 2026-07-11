@@ -182,7 +182,7 @@ flowchart LR
 
 Estou disponível para colaborar em projetos de **software, ciência de dados, bioinformática e tecnologia aplicada às ciências da vida**.
 
-[![Email](https://img.shields.io/badge/Enviar%20Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:angelacostinha@gmail.com)
+
 
 <br><br>
 
