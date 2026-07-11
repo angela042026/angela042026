@@ -1,11 +1,10 @@
-<h1 align="center">Olá, sou a Ângela Costa 👋</h1>
-<h3 align="center">Da Biologia Molecular para o Desenvolvimento de Software 🧬 → 💻</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2C7A7B&center=true&vCenter=true&width=600&lines=Investigadora+em+Bioinform%C3%A1tica;SW+Developer+em+forma%C3%A7%C3%A3o;C%23+%7C+Java+%7C+PHP+%2F+Laravel+%7C+SQL;A+construir+solu%C3%A7%C3%B5es+digitais+com+rigor+cient%C3%ADfico" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2744,100:2C7A7B&height=200&section=header&text=Ângela%20Costa&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Da%20Biologia%20Molecular%20para%20o%20Desenvolvimento%20de%20Software&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2C7A7B&center=true&vCenter=true&width=600&lines=Investigadora+em+Bioinform%C3%A1tica;SW+Developer+em+forma%C3%A7%C3%A3o;C%23+%7C+Java+%7C+PHP+%2F+Laravel+%7C+SQL;A+construir+solu%C3%A7%C3%B5es+digitais+com+rigor+cient%C3%ADfico" alt="Typing SVG" />
+</p>
 
 ### 🔬 Sobre mim
 
@@ -19,7 +18,7 @@ Trago da ciência o que considero mais valioso para programar bem: **rigor metod
 - 💬 Posso falar sobre biologia molecular, virologia de plantas... ou sobre os meus primeiros passos em código
 - 📍 Braga, Portugal
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1a2744&height=3&width=100%" />
 
 ### 🛠️ Tecnologias & Ferramentas
 
@@ -41,16 +40,16 @@ Trago da ciência o que considero mais valioso para programar bem: **rigor metod
 ![Metagenomics](https://img.shields.io/badge/Metagen%C3%B3mica-2C7A7B?style=for-the-badge)
 ![Bioinformatics](https://img.shields.io/badge/Bioinform%C3%A1tica-2C7A7B?style=for-the-badge)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1a2744&height=3&width=100%" />
 
 ### 📊 Estatísticas GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=angela042026&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angela042026&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=angela042026&show_icons=true&theme=tokyonight&hide_border=true&title_color=2C7A7B&icon_color=2C7A7B&text_color=c9d1d9&bg_color=1a2744" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angela042026&layout=compact&hide_border=true&title_color=2C7A7B&text_color=c9d1d9&bg_color=1a2744" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1a2744&height=3&width=100%" />
 
 ### 🏆 Alguns marcos do meu percurso científico
 
@@ -58,10 +57,12 @@ Trago da ciência o que considero mais valioso para programar bem: **rigor metod
 - 🥇 Patente Nacional INPI — método de extração de DNA de alta qualidade para estudos metagenómicos (Universidade do Minho, 2022)
 - 🎓 Doutoramento em Virologia (Universidade do Algarve) e Pós-Doutoramento em Metagenómica (Universidade do Minho)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1a2744&height=3&width=100%" />
 
 ### 📫 Contacto
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelacostinha@gmail.com)
 
 <p align="center"><i>"Da bancada de laboratório ao editor de código — a curiosidade científica não muda, só a ferramenta."</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C7A7B,100:1a2744&height=100&section=footer" width="100%"/>
