@@ -5,7 +5,10 @@ Da Biologia Molecular para o Desenvolvimento de Software 🧬 → 💻
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=2C7A7B&center=true&vCenter=true&width=780&lines=Investigadora+em+Bioinformática;Software+Developer+em+formação;Laravel+%7C+Kotlin+%7C+C%23+%7C+Java;Transformo+pensamento+científico+em+software" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1200&color=2C7A7B&center=true&vCenter=true&width=780&lines=Investigadora+em+Bioinform%C3%A1tica;Software+Developer+em+forma%C3%A7%C3%A3o;Laravel+%7C+Kotlin+%7C+C%23+%7C+Java;Transformo+pensamento+cient%C3%ADfico+em+software"
+    alt="Texto animado sobre o percurso profissional da Ângela"
+  />
 </p>
 
 <p align="center">
