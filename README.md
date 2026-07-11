@@ -1,191 +1,119 @@
-<div align="center">
+<h1 align="center">Olá, sou a Ângela Costa 👋</h1>
 
-# Olá, sou a Ângela Costa 👋
+<h3 align="center">
+Da Biologia Molecular para o Desenvolvimento de Software 🧬 → 💻
+</h3>
 
-### 🧬 Investigação científica · 💻 Desenvolvimento de Software
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=2C7A7B&center=true&vCenter=true&width=720&lines=Da+Biologia+Molecular+para+o+Software;Bioinformática+%7C+Laravel+%7C+Kotlin+%7C+C%23;Ciência%2C+código+e+resolução+de+problemas" alt="Typing SVG" />
-
-<br>
-
-[![Email](https://img.shields.io/badge/Email-Contactar-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:angelacostinha@gmail.com)
-![Localização](https://img.shields.io/badge/Braga-Portugal-2C7A7B?style=flat-square)
-![Perfil](https://img.shields.io/badge/Open%20to-Collaboration-4C8BF5?style=flat-square)
-
-</div>
-
----
-
-## 👩‍🔬 Sobre mim
-
-Sou investigadora sénior em **Biologia Molecular, Virologia e Metagenómica**, com mais de 15 anos de experiência científica.
-
-Atualmente, estou a fazer a transição para o **desenvolvimento de software**, aplicando ao código as competências que construí na investigação:
-
-> **Rigor metodológico, pensamento analítico, curiosidade e persistência na resolução de problemas complexos.**
-
-* 🎓 Doutoramento em **Virologia**
-* 🧬 Pós-doutoramento em **Metagenómica**
-* 💻 Formação em **Software Development** no CESAE Digital
-* 📱 Projetos em **Laravel, Kotlin/Android, C# e bases de dados relacionais**
-* 📍 Braga, Portugal
-
----
-
-## 🚀 Atualmente
-
-```text
-🔭 A desenvolver projetos web e mobile
-🌱 A aprofundar Laravel, Kotlin, C#, JavaScript e SQL
-🧪 A explorar a ligação entre ciência, dados e software
-🎯 Objetivo: criar soluções digitais úteis, robustas e bem estruturadas
-```
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-### Desenvolvimento
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,java,kotlin,php,laravel,html,css,javascript,mysql,git,github,vscode,androidstudio" alt="Tecnologias" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=2C7A7B&center=true&vCenter=true&width=780&lines=Investigadora+em+Bioinformática;Software+Developer+em+formação;Laravel+%7C+Kotlin+%7C+C%23+%7C+Java;Transformo+pensamento+científico+em+software" alt="Typing SVG" />
 </p>
 
-### Ciência e Dados
-
-![Biologia Molecular](https://img.shields.io/badge/Biologia%20Molecular-2C7A7B?style=for-the-badge)
-![Virologia](https://img.shields.io/badge/Virologia-319795?style=for-the-badge)
-![Metagenómica](https://img.shields.io/badge/Metagenómica-38B2AC?style=for-the-badge)
-![Bioinformática](https://img.shields.io/badge/Bioinformática-4FD1C5?style=for-the-badge)
-
----
-
-## 🧩 O que me diferencia
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔬 Mentalidade científica
-
-* Análise crítica
-* Validação de resultados
-* Documentação rigorosa
-* Trabalho com dados complexos
-* Aprendizagem contínua
-
-</td>
-<td width="50%" valign="top">
-
-### 💻 Mentalidade de desenvolvimento
-
-* Resolução estruturada de problemas
-* Código organizado e legível
-* Desenvolvimento iterativo
-* Atenção à experiência do utilizador
-* Colaboração e controlo de versões
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="mailto:angelacostinha@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Braga-Portugal-2C7A7B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Software%20Developer-success?style=for-the-badge"/>
+</p>
 
 ---
 
-## 📌 Projetos em destaque
+# 👩‍💻 Sobre mim
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Sou investigadora sénior em **Biologia Molecular, Virologia e Metagenómica**, com mais de **15 anos de experiência científica**.
 
-### 🌐 Aplicação Web com Laravel
+Atualmente encontro-me em transição para o **desenvolvimento de software**, onde aplico a experiência adquirida na investigação para criar software robusto, organizado e orientado para a resolução de problemas.
 
-Aplicação com autenticação, operações CRUD, validação de dados e integração com base de dados relacional.
+- 🧬 Doutoramento em **Virologia**
+- 🔬 Pós-Doutoramento em **Metagenómica**
+- 💻 Formação em **Software Development (CESAE Digital)**
+- 📍 Braga, Portugal
 
-**Tecnologias:** Laravel · PHP · MySQL · Bootstrap
-
-</td>
-<td width="50%" valign="top">
-
-### 📱 Aplicação Android
-
-Aplicação mobile desenvolvida em Kotlin, com navegação entre ecrãs, gestão de dados e interface orientada ao utilizador.
-
-**Tecnologias:** Kotlin · Android Studio · SQLite
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ Projeto em C#
-
-Aplicação orientada a objetos, com organização modular, validação de dados e foco em boas práticas de programação.
-
-**Tecnologias:** C# · .NET · SQL
-
-</td>
-<td width="50%" valign="top">
-
-### 🧬 Ciência e Bioinformática
-
-Experiência em investigação, análise de dados biológicos, metagenómica, virologia e desenvolvimento de metodologias laboratoriais.
-
-**Áreas:** Bioinformática · Metagenómica · Biologia Molecular
-
-</td>
-</tr>
-</table>
+> **"A ciência ensinou-me a pensar. A programação deu-me uma nova forma de aplicar esse pensamento."**
 
 ---
 
-## 📊 Estatísticas GitHub
+# 🚀 Tecnologias
 
-<div align="center">
+<p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=angela042026&show_icons=true&hide_border=true&title_color=2C7A7B&icon_color=2C7A7B" alt="Estatísticas GitHub" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,kotlin,php,laravel,html,css,js,mysql,git,github,vscode,androidstudio"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angela042026&layout=compact&hide_border=true&title_color=2C7A7B" alt="Linguagens mais utilizadas" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=angela042026&hide_border=true&ring=2C7A7B&fire=2C7A7B&currStreakLabel=2C7A7B" alt="GitHub Streak" />
-
-</div>
+</p>
 
 ---
 
-## 🏆 Percurso científico
+# 🌱 Atualmente
 
-* 📄 **6 publicações científicas**, incluindo 5 em revistas Q1
-* 🥇 **Patente Nacional INPI**, relacionada com extração de DNA para estudos metagenómicos
-* 🎓 **Doutoramento em Virologia**
-* 🧬 **Pós-doutoramento em Metagenómica**
-* 🔬 Mais de **15 anos de experiência em investigação científica**
-
----
-
-## 🌱 A minha transição
-
-```mermaid
-flowchart LR
-    A[Biologia Molecular] --> B[Virologia]
-    B --> C[Metagenómica]
-    C --> D[Bioinformática]
-    D --> E[Desenvolvimento de Software]
-```
+- 🌐 Desenvolvimento Web com **Laravel**
+- 📱 Desenvolvimento Android com **Kotlin**
+- ⚙️ Aplicações Desktop em **C#**
+- ☕ Programação em **Java**
+- 🗄 Bases de Dados **MySQL / SQL Server**
 
 ---
 
-<div align="center">
+# 📊 Estatísticas GitHub
 
-### 📫 Vamos conversar?
+<p align="center">
 
-Estou disponível para colaborar em projetos de **software, ciência de dados, bioinformática e tecnologia aplicada às ciências da vida**.
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=angela042026&show_icons=true&theme=transparent&hide_border=true"/>
 
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angela042026&layout=compact&theme=transparent&hide_border=true"/>
 
+</p>
 
-<br><br>
+<p align="center">
 
-> *“Da bancada de laboratório ao editor de código — a curiosidade científica não muda, só a ferramenta.”*
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=angela042026&theme=transparent&hide_border=true"/>
 
-</div>
+</p>
+
+---
+
+# 🧩 Projetos em destaque
+
+| Projeto | Tecnologias |
+|----------|-------------|
+| 🌐 Gestão de Consultas | Laravel · PHP · MySQL |
+| 📱 Android App | Kotlin |
+| ⚙️ Aplicação Desktop | C# · SQL Server |
+| 🧬 Bioinformática | Python · R · Metagenómica |
+
+*(Substitui esta tabela pelos teus projetos reais e coloca os links dos repositórios.)*
+
+---
+
+# 🏆 Percurso
+
+🏅 Doutoramento em Virologia
+
+🧬 Pós-Doutoramento em Metagenómica
+
+📄 6 publicações científicas (5 em revistas Q1)
+
+🥇 Patente Nacional INPI
+
+💻 Software Developer em formação
+
+---
+
+# 📫 Contacto
+
+<p align="center">
+
+<a href="mailto:angelacostinha@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/SEU-LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+
+*"Da bancada de laboratório ao editor de código — a curiosidade científica não muda, só a ferramenta."*
+
+</p>
